@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#43B1CE;
+    text-align:center;
+   
+    }
+
+    h1 {
+        text-align: center;
+        color:white;
+    }
+
+    .question {
+      margin-bottom: 20px;
+    }
+
+    .result-image {
+      width: 200px;
+      height: 200px;
+      margin: 10px;
+    }
+
+    #cover {
+        height: 400px;
+        
+    }
+
+
+    #result {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    #restartBtn {
+      margin-top: 20px;
+    }
